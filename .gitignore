@@ -1,0 +1,5 @@
+.DS_Store
+target/*
+move/*/build/*
+sui.log.*
+.sui.log
